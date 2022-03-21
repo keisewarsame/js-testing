@@ -21,9 +21,6 @@ class Calculator{
       return data;
     }
   }
-
-  
-
 }
 
 //required so data is visible externally
